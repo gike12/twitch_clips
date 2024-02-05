@@ -2,9 +2,9 @@ import argparse
 import config
 
 min_view=15
-game_id=21779 # ez a lolé
-language="en" # ['en','es','de','it','fr','da','nl'] , ['hu'] 
-range_of_days = 1 # 1d 7d 30d -- csak számot nem kell a day d
+game_id=21779 # for lol
+language="en" # ['en','es','de','it','fr','da','nl']
+range_of_days = 1 # 1d 7d 30d -- only num
 client_id =
 client_secret=
 token=open("token",'r').read()
