@@ -1,0 +1,6 @@
+/--game_id --min_view --language --days
+/.env
+/old
+/test.py
+/token
+/__pycache__
